@@ -11,7 +11,7 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full'> 
                 <h2 className='text-4xl sm:text-7xl font-bold'> I'm a Front-End Developer</h2>
                 <p className='py-4 text-gray-500 max-w-md'>
-                    I have 1.10 years of experience in front end development using React.
+                    I have aroung 2 years of experience in front end development using React.
                     I am skilled in creating dynamic and interactive websites using
                     React.js, Tailwind, JSX and JavaScript. Designed websites to 
                     look good and work well on all types of devices like phones, tablets, and desktops. 
