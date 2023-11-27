@@ -1,7 +1,5 @@
 import React from 'react'
 import food from "../assets/food-ordering.jpg"
-import landing from "../assets/landing-page.jpg"
-import todo from "../assets/to-do.png"
 import training from "../assets/training-1-1024x691.jpg"
 import reporting from "../assets/data-visualization.jpg"
 
@@ -27,19 +25,6 @@ const Portfolio = () => {
             title: 'Online food ordering platform',
             demourl: 'https://online-food-ordering-app-by-snehal.netlify.app/',
             codeurl: 'https://github.com/snehal0527/react-course'
-        },
-        {
-            id: 4,
-            src: landing,
-            title: 'Responsive landing page',
-            demourl: '',
-            codeurl: ''
-        },{
-            id: 5,
-            src: todo,
-            title: 'To do list application',
-            demourl: '',
-            codeurl: ''
         }
     ]
     
